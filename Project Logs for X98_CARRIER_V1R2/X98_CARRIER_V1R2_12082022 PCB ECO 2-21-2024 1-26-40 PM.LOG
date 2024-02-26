@@ -1,0 +1,31 @@
+Added Class: Name=N000-2_[0..1]
+Added Class: Name=N000-3_[0..8]
+Added Class: Name=N000-4_[0..3]
+Added Class: Name=N000-5_[0..9]
+Added Class: Name=N000-6_[0..11]
+Added Class: Name=N000-7_[0..9]
+Added Class: Name=N000-9_[0..3]
+Added Class: Name=N000-10_[0..2]
+Added Class: Name=N000-11_[0..15]
+Added Class: Name=N000-12_[0..2]
+Added Class: Name=N000-13_[0..3]
+Added Class: Name=N000-14_[0..2]
+Added Class: Name=N000-15_[0..3]
+Added Class: Name=N000-16_[0..1]
+Added Class: Name=N000-17_[0..5]
+Added Class: Name=N000-18_[0..1]
+Added Class: Name=N000-19_[0..1]
+Added Class: Name=N000-21_[0..4]
+Added Class: Name=N000-23_[0..1]
+Add Differential Pair: Net(s) Not Found in Differential Pair PCIe_USB_MODEM : Positive Net [PCIe_USB_MODEM_P] & Negative Net [PCIe_USB_MODEM_N] in current PCB document
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB1_OTG'
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB1_OTG
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB1D'
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB1DP
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB2_UP
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB2D'
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB2DP
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB3DP'
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB3DP
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB_DEBUG'
+Added Member To Class: ClassName=USB 90 OHM DIFF Member=USB_DEBUG

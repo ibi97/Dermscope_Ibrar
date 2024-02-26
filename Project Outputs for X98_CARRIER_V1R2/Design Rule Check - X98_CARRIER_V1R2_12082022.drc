@@ -1,0 +1,141 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\a\Desktop\ibrar\Schematic1\Schematic\Schematic\X98_CARRIER_V1R2_12082022.PcbDoc
+Date     : 2/23/2024
+Time     : 1:05:17 PM
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) ((InDifferentialPairClass('All Differential Pairs'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (OnLayer('Keep-Out Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (OnLayer('Keep-Out Layer')),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('NetCON800_G1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (InComponent('U500')),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InComponent('CON800') OR InComponent('CON602') OR InComponent('C925'))),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InNet('NetC803_1') OR InNet('NetCON800_5'))),(InNet('CHASIS'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=300mil) (Preferred=4mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=7.874mil) (MaxHoleWidth=118.11mil) (PreferredHoleWidth=7.874mil) (MinWidth=15.748mil) (MaxWidth=118.11mil) (PreferedWidth=15.748mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=5.574mil) (Max=25.683mil) (Prefered=25.683mil)  and Width Constraints (Min=3mil) (Max=4mil) (Prefered=4mil) ((InDifferentialPairClass('DIFF CSI 100 OHM') OR InDifferentialPairClass('ETHERNET 100 OHM') OR InDifferentialPairClass('DIFF DSI 100 OHM') OR InDifferentialPairClass('DIFF LVDS 100 OHM') OR InDifferentialPairClass('DIFF HDMI 100 OHM')))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=6.526mil) (Prefered=6.526mil)  and Width Constraints (Min=2.798mil) (Max=4.495mil) (Prefered=4.495mil) (InDifferentialPairClass('USB 90 OHM DIFF'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=5mil) (Prefered=5mil)  and Width Constraints (Min=2.845mil) (Max=5.051mil) (Prefered=5.051mil) (InDifferentialPairClass('DIFF PCIe 85 OHM'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=5mil) (Max=10.713mil) (Prefered=10.713mil)  and Width Constraints (Min=1.096mil) (Max=4mil) (Prefered=4mil) (InDifferentialPairClass('120 OHM'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=196.85mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.15mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) ((OnLayer('Bottom Overlay') OR OnLayer('Top Overlay')))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (InComponent('SW1001'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD100-FD-1(4125mil,454mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD101-FD-1(4122mil,594mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD102-FD-1(4105mil,823mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD103-FD-1(4107mil,1114mil) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD104-FD-1(4118mil,965mil) on Bottom Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Pad FD105-FD-1(4114mil,716mil) on Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Matched Lengths(Delay Tolerance=10ps) (InDifferentialPairClass('DIFF LVDS 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('USB 90 OHM DIFF'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('ETHERNET 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF LVDS 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InDifferentialPairClass('DIFF PCIe 85 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF DSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF CSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InDifferentialPairClass('DIFF CSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPairClass('DIFF DSI 100 OHM'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 4mil ) ((InComponent('CON300') OR InComponent('CON900'))),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = -1mil, Vertical Gap = Infinite ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 1mil ) (InComponent('U600')),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:03

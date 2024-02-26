@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=C800-2
+Removed Pin From Net: NetName=GND Pin=C803-2
+Removed Pin From Net: NetName=USB1_OTG_ID Pin=CON800-4
+Removed Pin From Net: NetName=USB1_OTG_ID Pin=CON805-1
+Removed Pin From Net: NetName=GND Pin=CON805-2
+Removed Pin From Net: NetName=USB1_OTG_ID Pin=D803-1
+Removed Pin From Net: NetName=GND Pin=D803-2
+Removed Pin From Net: NetName=USB1_OTG_P Pin=L801-1
+Removed Pin From Net: NetName=USB1_OTG_N Pin=L801-4
+Removed Pin From Net: NetName=GND Pin=L802-1
+Removed Pin From Net: NetName=GND Pin=L808-1
+Removed Pin From Net: NetName=+1.8V_VDD Pin=Q800-1
+Removed Pin From Net: NetName=USB_OTG_POWER Pin=Q800-2
+Removed Pin From Net: NetName=USB1_OTG_ID Pin=R800-1
+Removed Pin From Net: NetName=+1.8V_VDD Pin=R800-2
+Removed Pin From Net: NetName=USB1_OTG_VBUS_DETECT Pin=R801-1
+Removed Pin From Net: NetName=GND Pin=R802-1
+Removed Pin From Net: NetName=USB1_OTG_VBUS_DETECT Pin=R802-2
+Removed Pin From Net: NetName=+1.8V_VDD Pin=R803-1
+Removed Pin From Net: NetName=USB_OTG_OC Pin=R803-2
+Removed Pin From Net: NetName=USB_OTG_POWER Pin=R804-1
+Removed Pin From Net: NetName=+1.8V_VDD Pin=R804-2
+Removed Pin From Net: NetName=+3.3V_VDD Pin=R805-2
+Removed Pin From Net: NetName=GND Pin=R821-1
+Removed Pin From Net: NetName=USB_OTG_POWER Pin=R821-2
+Removed Pin From Net: NetName=GND Pin=U800-2
+Removed Pin From Net: NetName=USB_OTG_OC Pin=U800-3
+Removed Pin From Net: NetName=+5V Pin=U800-5
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=C800
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=C803
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=CON800
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=CON804
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=CON805
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=D803
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=D805
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=L800
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=L801
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=L802
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=L807
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=L808
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=Q800
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R800
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R801
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R802
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R803
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R804
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R805
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=R821
+Removed Member From Class: ClassName=08 USB OTG & POWER Member=U800
+Removed Member From Class: ClassName=USB Member=USB1_OTG'_N
+Removed Member From Class: ClassName=USB Member=USB1_OTG'_P
+Removed Member From Class: ClassName=USB Member=USB1_OTG_N
+Removed Member From Class: ClassName=USB Member=USB1_OTG_P
+Add Differential Pair: Net(s) Not Found in Differential Pair PCIe_USB_MODEM : Positive Net [PCIe_USB_MODEM_P] & Negative Net [PCIe_USB_MODEM_N] in current PCB document
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Add Class Member: Failed to add class member : PCIe_USB_MODEM

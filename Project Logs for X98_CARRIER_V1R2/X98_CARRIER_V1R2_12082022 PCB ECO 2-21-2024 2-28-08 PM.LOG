@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=+VBUS_USB Pin=C900-1
+Removed Pin From Net: NetName=GND Pin=C900-2
+Removed Pin From Net: NetName=+VBUS_USB Pin=C902-1
+Removed Pin From Net: NetName=GND Pin=C902-2
+Removed Pin From Net: NetName=CHASIS Pin=C925-1
+Removed Pin From Net: NetName=GND Pin=C925-2
+Removed Pin From Net: NetName=CHASIS Pin=CON900-9
+Removed Pin From Net: NetName=CHASIS Pin=CON900-10
+Removed Pin From Net: NetName=CHASIS Pin=CON900-11
+Removed Pin From Net: NetName=CHASIS Pin=CON900-12
+Removed Pin From Net: NetName=GND Pin=D900-1
+Removed Pin From Net: NetName=GND Pin=D902-1
+Removed Pin From Net: NetName=GND Pin=D903-2
+Removed Pin From Net: NetName=GND Pin=L900-2
+Removed Pin From Net: NetName=+VBUS_USB Pin=L903-2
+Removed Pin From Net: NetName=GND Pin=L905-2
+Removed Pin From Net: NetName=+VBUS_USB Pin=L908-2
+Removed Pin From Net: NetName=GND Pin=L911-1
+Removed Pin From Net: NetName=CHASIS Pin=L911-2
+Removed Member From Class: ClassName=09 USB HUB Member=C900
+Removed Member From Class: ClassName=09 USB HUB Member=C902
+Removed Member From Class: ClassName=09 USB HUB Member=C925
+Removed Member From Class: ClassName=09 USB HUB Member=CON900
+Removed Member From Class: ClassName=09 USB HUB Member=D900
+Removed Member From Class: ClassName=09 USB HUB Member=D902
+Removed Member From Class: ClassName=09 USB HUB Member=D903
+Removed Member From Class: ClassName=09 USB HUB Member=L900
+Removed Member From Class: ClassName=09 USB HUB Member=L901
+Removed Member From Class: ClassName=09 USB HUB Member=L903
+Removed Member From Class: ClassName=09 USB HUB Member=L905
+Removed Member From Class: ClassName=09 USB HUB Member=L906
+Removed Member From Class: ClassName=09 USB HUB Member=L908
+Removed Member From Class: ClassName=09 USB HUB Member=L911
+Removed Member From Class: ClassName=09 USB HUB Member=TP900
+Removed Member From Class: ClassName=09 USB HUB Member=TP903
+Removed Member From Class: ClassName=09 USB HUB Member=TP905
+Removed Member From Class: ClassName=09 USB HUB Member=TP907
+Removed Member From Class: ClassName=09 USB HUB Member=TP908
+Removed Member From Class: ClassName=USB Member=USB1D'_N
+Removed Member From Class: ClassName=USB Member=USB1D'_P
+Removed Member From Class: ClassName=USB Member=USB1DP_N
+Removed Member From Class: ClassName=USB Member=USB1DP_P
+Removed Member From Class: ClassName=USB Member=USB2D'_N
+Removed Member From Class: ClassName=USB Member=USB2D'_P
+Removed Member From Class: ClassName=USB Member=USB2DP_N
+Removed Member From Class: ClassName=USB Member=USB2DP_P
+Added Class: Name=N000-1_[0..8]
+Added Class: Name=N000-2_[0..3]
+Added Class: Name=N000-3_[0..9]
+Added Class: Name=N000-4_[0..11]
+Added Class: Name=N000-6_[0..3]
+Added Class: Name=N000-7_[0..1]
+Added Class: Name=N000-9_[0..2]
+Added Class: Name=N000-10_[0..15]
+Added Class: Name=N000-11_[0..2]
+Added Class: Name=N000-12_[0..3]
+Added Class: Name=N000-13_[0..2]
+Added Class: Name=N000-14_[0..3]
+Added Class: Name=N000-15_[0..1]
+Added Class: Name=N000-16_[0..5]
+Added Class: Name=N000-17_[0..1]
+Added Class: Name=N000-19_[0..3]
+Added Class: Name=N000-20_[0..4]
+Added Class: Name=N000-21_[0..3]
+Added Class: Name=N000-22_[0..1]
+Added Class: Name=N000-23_[0..3]
+Added Class: Name=N000-24_[0..1]
+Add Differential Pair: Net(s) Not Found in Differential Pair PCIe_USB_MODEM : Positive Net [PCIe_USB_MODEM_P] & Negative Net [PCIe_USB_MODEM_N] in current PCB document
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Add Class Member: Failed to add class member : PCIe_USB_MODEM
